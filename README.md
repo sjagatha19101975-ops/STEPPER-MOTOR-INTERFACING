@@ -70,7 +70,7 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
-
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/bd74c472-38b5-4139-bf0b-802c1c5a466d" />
 ## RESULT
 
 Thus, the assembly language program for rotating the stepper motor in both clockwise and anticlockwise directions was written and verified.
